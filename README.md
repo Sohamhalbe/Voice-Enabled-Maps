@@ -1,0 +1,1 @@
+This is a voice-enabled geospatial map application that allows users to interact with a map using voice commands. The application uses a locally fine-tuned Whisper model for automatic speech recognition (ASR) and is integrated with Leaflet for map-based interactions. The backend is powered by Flask and SocketIO for real-time communication.
